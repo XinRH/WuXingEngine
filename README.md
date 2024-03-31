@@ -1,15 +1,16 @@
 ```
-#-------------------------
-##欢迎来到“无形引擎”
-##这是一个跨平台的高性能计算与高质量渲染引擎
-##施工中......
+# -------------------------
+# 欢迎来到“无形引擎”
+# 这是一个跨平台的高性能计算与高质量渲染引擎
+# 施工中......
 
-##Welcome to WuXingEngine
-##This is a cross-platform high-performance computing and high-quality rendering engine.
-##Still Working...
-#-------------------------
+# Welcome to WuXingEngine
+# This is a cross-platform high-performance computing and high-quality rendering engine.
+# Still Working...
+# -------------------------
 ```
 
+```
 # -------------------------
 # 构建
 # WINDOWS：
@@ -29,9 +30,12 @@
 # MAC OS:
 # 施工中...
 # -------------------------
+```
 
+```
 # -------------------------
 您还可以使用/source/resource/configs下的配置文件对项目进行定制，加快编译速度
 # -------------------------
+```
 
  
