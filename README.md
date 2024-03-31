@@ -1,5 +1,5 @@
 ```
-![image](https://github.com/XinRH/WuXingEngine/blob/main/source/resource/photos/Snipaste_2024-03-31_10-56-46.png)
+![image](https://github.com/XinRH/WuXingEngine/source/resource/photos/Snipaste_2024-03-31_10-56-46.png)
 ```
 
 ```
