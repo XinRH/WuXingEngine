@@ -1,6 +1,4 @@
 ![image](https://github.com/XinRH/WuXingEngine/blob/main/source/resource/photos/Snipaste_2024-03-31_10-56-46.png?raw=true)
-![image](https://raw.githubusercontent.com/XinRH/WuXingEngine/main/source/resource/photos/Snipaste_2024-03-31_10-56-46.png?token=GHSAT0AAAAAACNXJWUXCZIAML27BEKSUYEUZQI2NAQ)
-
 
 ```
 # -------------------------
