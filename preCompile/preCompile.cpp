@@ -108,13 +108,13 @@ void setCmakeScriptUsingUserCFG(PreCompileInfo info) {
 				new_str += "add_subdirectory(${3RDPARTYLIBRARY_PATH}/" + info.elements[i] + " ${WUXINGENGINE_PATH}/build/3rdPartyLibrary/" + info.elements[i] + ")" + "\n";
 				new_str += "link_libraries(" + info.elements[i] + ")" + "\n\n";
 			
-				if(info.elements[i] == "EnTT") 		new_str += "file(COPY ${3RDPARTYLIBRARY_PATH}/" + info.elements[i] + "/single_include/entt/entt.hpp DESTINATION ${WUXINGENGINE_PATH}/build/win/inc/FILES_MATCHING PATTERN *.hpp)" + "\n";
-				if(info.elements[i] == "freetype") 	new_str += "file(COPY ${3RDPARTYLIBRARY_PATH}/" + info.elements[i] + "/include/ft2build.h DESTINATION ${WUXINGENGINE_PATH}/build/win/inc/FILES_MATCHING PATTERN *.h)" + "\n";
-				if(info.elements[i] == "glad") 		new_str += "file(COPY ${3RDPARTYLIBRARY_PATH}/" + info.elements[i] + "/include/glad/glad.h DESTINATION ${WUXINGENGINE_PATH}/build/win/inc/FILES_MATCHING PATTERN *.h)" + "\n";
-				if(info.elements[i] == "glfw") 		new_str += "file(COPY ${3RDPARTYLIBRARY_PATH}/" + info.elements[i] + "/include/GLFW/glfw3.h DESTINATION ${WUXINGENGINE_PATH}/build/win/inc/FILES_MATCHING PATTERN *.h)" + "\n";
-				if(info.elements[i] == "glm") 		new_str += "file(COPY ${3RDPARTYLIBRARY_PATH}/" + info.elements[i] + "/glm/glm.hpp DESTINATION ${WUXINGENGINE_PATH}/build/win/inc/FILES_MATCHING PATTERN *.hpp)" + "\n";
-				if(info.elements[i] == "SDL2") 		new_str += "file(COPY ${3RDPARTYLIBRARY_PATH}/" + info.elements[i] + "/include/SDL.h DESTINATION ${WUXINGENGINE_PATH}/build/win/inc/FILES_MATCHING PATTERN *.h)" + "\n";
-				if(info.elements[i] == "tinyxml2")	new_str += "file(COPY ${3RDPARTYLIBRARY_PATH}/" + info.elements[i] + "/tinyxml2.h DESTINATION ${WUXINGENGINE_PATH}/build/win/inc/FILES_MATCHING PATTERN *.h)" + "\n";
+				if(info.elements[i] == "EnTT") 		new_str += "file(COPY ${3RDPARTYLIBRARY_PATH}/" + info.elements[i] + "/single_include/entt/entt.hpp DESTINATION ${WUXINGENGINE_PATH}/build/win/inc PATTERN *.hpp)" + "\n";
+				if(info.elements[i] == "freetype") 	new_str += "file(COPY ${3RDPARTYLIBRARY_PATH}/" + info.elements[i] + "/include/ft2build.h DESTINATION ${WUXINGENGINE_PATH}/build/win/inc PATTERN *.h)" + "\n";
+				if(info.elements[i] == "glad") 		new_str += "file(COPY ${3RDPARTYLIBRARY_PATH}/" + info.elements[i] + "/include/glad/glad.h DESTINATION ${WUXINGENGINE_PATH}/build/win/inc PATTERN *.h)" + "\n";
+				if(info.elements[i] == "glfw") 		new_str += "file(COPY ${3RDPARTYLIBRARY_PATH}/" + info.elements[i] + "/include/GLFW/glfw3.h DESTINATION ${WUXINGENGINE_PATH}/build/win/inc PATTERN *.h)" + "\n";
+				if(info.elements[i] == "glm") 		new_str += "file(COPY ${3RDPARTYLIBRARY_PATH}/" + info.elements[i] + "/glm/glm.hpp DESTINATION ${WUXINGENGINE_PATH}/build/win/inc PATTERN *.hpp)" + "\n";
+				if(info.elements[i] == "SDL2") 		new_str += "file(COPY ${3RDPARTYLIBRARY_PATH}/" + info.elements[i] + "/include/SDL.h DESTINATION ${WUXINGENGINE_PATH}/build/win/inc PATTERN *.h)" + "\n";
+				if(info.elements[i] == "tinyxml2")	new_str += "file(COPY ${3RDPARTYLIBRARY_PATH}/" + info.elements[i] + "/tinyxml2.h DESTINATION ${WUXINGENGINE_PATH}/build/win/inc PATTERN *.h)" + "\n";
 				}
 			break;
 		case typeToChangeScript::setAndroidCmakeScript3rdPartyLib:

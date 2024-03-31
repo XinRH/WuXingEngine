@@ -41,10 +41,6 @@ add_library(glfw STATIC IMPORTED)
 set_target_properties(glfw PROPERTIES IMPORTED_LOCATION ${WUXINGENGINE_PATH}/build/win/lib/libglfw3.a)
 target_link_libraries(${PROJECT_NAME} glfw)
 
-add_library(SDL2 MODULE IMPORTED)
-set_target_properties(SDL2 PROPERTIES IMPORTED_LOCATION ${WUXINGENGINE_PATH}/build/win/bin/SDL2.dll)
-target_link_libraries(${PROJECT_NAME} SDL2)
-
 add_library(glad STATIC IMPORTED)
 set_target_properties(glad PROPERTIES IMPORTED_LOCATION ${WUXINGENGINE_PATH}/build/win/lib/libglad.a)
 target_link_libraries(${PROJECT_NAME} glad)

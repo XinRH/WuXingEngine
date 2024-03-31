@@ -3,7 +3,7 @@
 <WINDOWS>
 <Compiler C = "gcc" CXX = "g++">
 </Compiler>
-<Link type = "dynamic">
+<Link type = "static">
 <!--
 <Link type = "dynamic">
 <Link type = "static">

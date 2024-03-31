@@ -7,7 +7,6 @@ using namespace std;
 #include "resource/generated/define/define_tinyxml2.h"
 #include "resource/generated/define/define_freetype.h"
 #include "resource/generated/define/define_glfw.h"
-#include "resource/generated/define/define_SDL2.h"
 #include "resource/generated/define/define_glad.h"
 #include "resource/generated/define/define_OpenGL.h"
 #include "resource/generated/define/define_EnTT.h"
@@ -23,7 +22,6 @@ class DEFINE {
 		cout<<"tinyxml2"<<endl;
 		cout<<"freetype"<<endl;
 		cout<<"glfw"<<endl;
-		cout<<"SDL2"<<endl;
 		cout<<"glad"<<endl;
 		cout<<"OpenGL"<<endl;
 		cout<<"EnTT"<<endl;

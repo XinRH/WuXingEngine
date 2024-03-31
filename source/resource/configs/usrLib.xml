@@ -5,7 +5,7 @@
 </File>
 <!--make sure "SDL2" after "glfw" because SDL2 used glfw-->
 <!--make sure "glfw" before "glad" or compile will fail-->
-<Window Lib0 = "glfw" Lib1 = "SDL2">
+<Window Lib0 = "glfw" Lib1 = "">
 </Window>
 <Render Lib0 = "glad" RenderAPI0 = "OpenGL" RenderAPI1 = "">
 </Render>
