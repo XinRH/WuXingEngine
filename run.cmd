@@ -1,0 +1,1 @@
+call preCompile.cmd & cd .. & cd .. & call compileEngine.cmd

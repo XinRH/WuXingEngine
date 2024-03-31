@@ -1,0 +1,14 @@
+# ninja log v5
+0	547	732737177	CMakeFiles/gl2jni.dir/gl_code.cpp.o	921195a72aa58063
+549	629	732737177	D:/CODE/WuXingEngine/application/app/build/intermediates/cxx/Debug/5f2up1m3/obj/x86/libgl2jni.so	de4c5da5f3a7955c
+3	544	732737322	CMakeFiles/gl2jni.dir/gl_code.cpp.o	d7c52b14a38c21b1
+544	640	732737322	D:/CODE/WuXingEngine/application/app/build/intermediates/cxx/Debug/5f2up1m3/obj/x86/libgl2jni.so	de4c5da5f3a7955c
+3	600	732737392	CMakeFiles/gl2jni.dir/gl_code.cpp.o	635abcb1e602d6f8
+601	685	732737392	D:/CODE/WuXingEngine/application/app/build/intermediates/cxx/Debug/5f2up1m3/obj/x86/libgl2jni.so	de4c5da5f3a7955c
+3	798	732737447	CMakeFiles/gl2jni.dir/gl_code.cpp.o	635abcb1e602d6f8
+799	978	732737448	D:/CODE/WuXingEngine/application/app/build/intermediates/cxx/Debug/5f2up1m3/obj/x86/libgl2jni.so	de4c5da5f3a7955c
+3	726	732737572	CMakeFiles/gl2jni.dir/gl_code.cpp.o	921195a72aa58063
+726	850	732737572	D:/CODE/WuXingEngine/application/app/build/intermediates/cxx/Debug/5f2up1m3/obj/x86/libgl2jni.so	de4c5da5f3a7955c
+3	843	732737679	CMakeFiles/gl2jni.dir/gl_code.cpp.o	921195a72aa58063
+8	1080	732983001	CMakeFiles/gl2jni.dir/gl_code.cpp.o	921195a72aa58063
+1080	1220	732983001	D:/CODE/WuXingEngine/application/app/build/intermediates/cxx/Debug/5f2up1m3/obj/x86/libgl2jni.so	7c730fae36dba387

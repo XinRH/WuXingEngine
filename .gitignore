@@ -1,0 +1,5 @@
+/.vscode
+/build
+/compileLibs/build
+/engine/build
+/preCompile/build

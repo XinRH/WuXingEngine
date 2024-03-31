@@ -1,0 +1,15 @@
+<!-- User's config file for WuXingEngine-->
+<ROOT>
+<WINDOWS>
+<Compiler C = "gcc" CXX = "g++">
+</Compiler>
+<Link type = "dynamic">
+<!--
+<Link type = "dynamic">
+<Link type = "static">
+-->
+</Link>
+</WINDOWS>
+<ANDROID>
+</ANDROID>
+</ROOT>

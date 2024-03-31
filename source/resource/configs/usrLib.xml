@@ -1,0 +1,28 @@
+<!-- User's config file for WuXingEngine-->
+<ROOT>
+<WINDOWS>
+<File Lib0 = "tinyxml2" Lib1 = "freetype">
+</File>
+<!--make sure "SDL2" after "glfw" because SDL2 used glfw-->
+<!--make sure "glfw" before "glad" or compile will fail-->
+<Window Lib0 = "glfw" Lib1 = "SDL2">
+</Window>
+<Render Lib0 = "glad" RenderAPI0 = "OpenGL" RenderAPI1 = "">
+</Render>
+<System Lib0 = "EnTT">
+</System>
+<Math Lib0 = "glm">
+</Math>
+</WINDOWS>
+
+<ANDROID>
+<Display Lib0 = "EGL">
+</Display>
+<Render RenderAPI0 = "GLESv2">
+</Render>
+<Platform Lib0 = "android">
+</Platform>
+<Function Lib0 = "log">
+</Function>
+</ANDROID>
+</ROOT> 

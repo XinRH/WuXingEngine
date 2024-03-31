@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/CODE/WuXingEngine/application/app/.cxx/Debug/5f2up1m3/x86",
+  "command": "C:\\Users\\xrh\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/xrh/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DWUXING_EGL -DWUXING_GLESv2 -DWUXING_android -DWUXING_log -Dgl2jni_EXPORTS -ID:/CODE/WuXingEngine/source -ID:/CODE/WuXingEngine/application/app/src/main/cpp -ID:/CODE/WuXingEngine/build/win/inc -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++17 -Wall -fno-limit-debug-info  -fPIC -o CMakeFiles\\gl2jni.dir\\gl_code.cpp.o -c D:\\CODE\\WuXingEngine\\application\\app\\src\\main\\cpp\\gl_code.cpp",
+  "file": "D:\\CODE\\WuXingEngine\\application\\app\\src\\main\\cpp\\gl_code.cpp"
+}
+]

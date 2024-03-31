@@ -1,0 +1,11 @@
+<!-- User's config file for WuXingEngine-->
+<ROOT>
+<Window Width = "400" Height = "400" SwapIntervalFlag = "1">
+</Window>
+<Render bgColor0 = "0.46" bgColor1 = "0.84" bgColor2 = "0.91">
+</Render>
+<Physics DeltaTime = "0.01">
+</Physics>
+<Camera cameraPosX = "0" cameraPosY = "0" cameraPosZ = "3" aimPosX = "0" aimPosY = "0" aimPosZ = "0" speedVecX = "0.1" speedVecY = "0.1" speedVecZ = "0.1">
+</Camera>
+</ROOT>

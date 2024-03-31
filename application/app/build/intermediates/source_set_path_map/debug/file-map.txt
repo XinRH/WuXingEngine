@@ -1,0 +1,8 @@
+com.android.gl2jni.app-pngs-0 D:\CODE\WuXingEngine\application\app\build\generated\res\pngs\debug
+com.android.gl2jni.app-resValues-1 D:\CODE\WuXingEngine\application\app\build\generated\res\resValues\debug
+com.android.gl2jni.app-rs-2 D:\CODE\WuXingEngine\application\app\build\generated\res\rs\debug
+com.android.gl2jni.app-mergeDebugResources-3 D:\CODE\WuXingEngine\application\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.android.gl2jni.app-mergeDebugResources-4 D:\CODE\WuXingEngine\application\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.android.gl2jni.app-merged_res-5 D:\CODE\WuXingEngine\application\app\build\intermediates\merged_res\debug
+com.android.gl2jni.app-debug-6 D:\CODE\WuXingEngine\application\app\src\debug\res
+com.android.gl2jni.app-main-7 D:\CODE\WuXingEngine\application\app\src\main\res

@@ -1,0 +1,11 @@
+<!-- User's config file for WuXingEngine-->
+<ROOT>
+<ANDROID    URL0 = "https://maven.aliyun.com/repository/central"
+            URL1 = "https://maven.aliyun.com/repository/jcenter"
+            URL2 = "https://maven.aliyun.com/repository/google"
+            URL3 = "https://maven.aliyun.com/repository/gradle-plugin"
+            URL4 = "https://maven.aliyun.com/repository/public"
+            URL5 = "https://jitpack.io"
+>
+</ANDROID>
+</ROOT>
